@@ -28,8 +28,11 @@ The analysis uses five datasets:
 - `megaline_messages.csv`
 - `megaline_plans.csv`
 - `megaline_users.csv`
-
 ---
+
+## Dataset Access
+You can access the datasets used in this project via Google Drive here: [Megaline Dataset](https://drive.google.com/drive/folders/15n1VtzqoCj7Q3AN3rYXrcBQWkobKcQn9?usp=sharing)
+
 
 ## Technologies Used
 
