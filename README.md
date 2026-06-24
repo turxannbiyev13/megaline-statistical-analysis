@@ -31,7 +31,7 @@ The analysis uses five datasets:
 ---
 
 ## Dataset Access
-You can access the datasets used in this project via Google Drive here: [Megaline Dataset](https://drive.google.com/drive/folders/15n1VtzqoCj7Q3AN3rYXrcBQWkobKcQn9?usp=sharing)
+You can access the datasets used in this project via Google Drive here: [Megaline Dataset](https://drive.google.com/drive/folders/15n1VtzqoCj7Q3AN3rYXrcBQWkobKcQn9?usp=drive_link)
 
 
 ## Technologies Used
